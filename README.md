@@ -2,6 +2,12 @@
 
 my vim profile for roaming
 
+Sets up [.vimrc](.vimrc) with perferred settings and installs plugins
+
+- NERDtree
+- ctrlp
+- powerline
+
 ## Installation
 
 ``` bash
