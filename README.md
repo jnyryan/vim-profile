@@ -1,4 +1,8 @@
-bash-profile
+# vim-profile
 ============
 
-my bash profile for roaming
+my vim profile for roaming
+
+## Installation
+
+curl https://raw.githubusercontent.com/jnyryan/vim-profile/master/install.sh | bash
